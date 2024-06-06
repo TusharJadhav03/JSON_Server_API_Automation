@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9e56d62-3ecb-474f-80c0-e91f5f240367" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/json_server/JsonServerOperations.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2h86P79OrFUs3pUoe76v3ZJ6B65" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.JsonServerOperations.deleteData.executor": "Run",
+    "TestNG.JsonServerOperations.deleteData_Posts.executor": "Run",
+    "TestNG.JsonServerOperations.executor": "Run",
+    "TestNG.JsonServerOperations.getData.executor": "Run",
+    "TestNG.JsonServerOperations.getData_Posts.executor": "Run",
+    "TestNG.JsonServerOperations.getData_Profile.executor": "Run",
+    "TestNG.JsonServerOperations.patchData.executor": "Run",
+    "TestNG.JsonServerOperations.patchData_Comments.executor": "Run",
+    "TestNG.JsonServerOperations.patchData_Posts.executor": "Run",
+    "TestNG.JsonServerOperations.postData (1).executor": "Run",
+    "TestNG.JsonServerOperations.postData.executor": "Run",
+    "TestNG.JsonServerOperations.postData_Posts.executor": "Run",
+    "TestNG.JsonServerOperations.putData.executor": "Run",
+    "TestNG.JsonServerOperations.putData_Posts.executor": "Run",
+    "TestNG.JsonServerOperations.putData_Profile.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.JsonServerOperations.patchData_Posts">
+    <configuration name="JsonServerOperations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Json_Server_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json_server" />
+      <option name="MAIN_CLASS_NAME" value="json_server.JsonServerOperations" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonServerOperations.getData_Profile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Json_Server_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json_server" />
+      <option name="MAIN_CLASS_NAME" value="json_server.JsonServerOperations" />
+      <option name="METHOD_NAME" value="getData_Profile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonServerOperations.patchData_Comments" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Json_Server_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json_server" />
+      <option name="MAIN_CLASS_NAME" value="json_server.JsonServerOperations" />
+      <option name="METHOD_NAME" value="patchData_Comments" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonServerOperations.patchData_Posts" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Json_Server_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json_server" />
+      <option name="MAIN_CLASS_NAME" value="json_server.JsonServerOperations" />
+      <option name="METHOD_NAME" value="patchData_Posts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonServerOperations.putData_Profile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Json_Server_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="json_server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="json_server" />
+      <option name="MAIN_CLASS_NAME" value="json_server.JsonServerOperations" />
+      <option name="METHOD_NAME" value="putData_Profile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JsonServerOperations.patchData_Posts" />
+        <item itemvalue="TestNG.JsonServerOperations" />
+        <item itemvalue="TestNG.JsonServerOperations.putData_Profile" />
+        <item itemvalue="TestNG.JsonServerOperations.getData_Profile" />
+        <item itemvalue="TestNG.JsonServerOperations.patchData_Comments" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9e56d62-3ecb-474f-80c0-e91f5f240367" name="Changes" comment="" />
+      <created>1716963333722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716963333722</updated>
+    </task>
+    <servers />
+  </component>
+</project>
